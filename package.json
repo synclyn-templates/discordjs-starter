@@ -1,0 +1,24 @@
+{
+  "name": "discordjs-starter",
+  "version": "1.0.0",
+  "description": "Starter template for synclyn.com",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/synclyn-templates/discordjs-starter.git"
+  },
+  "author": "swnck",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/synclyn-templates/discordjs-starter/issues"
+  },
+  "homepage": "https://github.com/synclyn-templates/discordjs-starter#readme",
+  "dependencies": {
+    "discord.js": "^14.15.2",
+    "dotenv": "^16.4.5"
+  }
+}
